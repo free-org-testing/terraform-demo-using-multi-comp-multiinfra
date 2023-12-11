@@ -6,5 +6,4 @@ module "vpc" {
     Terraform = "true"
     Environment = "dev"
   }
-  extra = "Value"
 }
